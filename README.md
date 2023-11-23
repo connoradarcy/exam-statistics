@@ -12,6 +12,8 @@ Takes student points and prints basic statistics on class average, passing rate,
   6. The class statistics will be printed.
 
 <h2>letter_square</h2>
+
+  Usage:
   1. Takes a number input and creates a square of letters
   2. Square of letters can range from 1 to 26 in width
   3. Input and printout via the console  

@@ -1,9 +1,9 @@
 # mooc.fi Python Programming MOOC 2023 - projects
 
 <h2>grade_statistics</h2>
-  - Takes student points and prints basic statistics on class average, passing rate, and grade distribution
-  - This project is based on the "Grade Statistics" programming exercise from the University of Helsinki's "Python Programming MOOC 2023" course.
-  - View the original programming assignment here: https://programming-23.mooc.fi/part-4/6-strings-and-lists#programming-exercise-grade-statistics
+  - Takes student points and prints basic statistics on class average, passing rate, and grade distribution <be>
+  - This project is based on the "Grade Statistics" programming exercise from the University of Helsinki's "Python Programming MOOC 2023" course <be>
+  - View the original programming assignment here: https://programming-23.mooc.fi/part-4/6-strings-and-lists#programming-exercise-grade-statistics <be>
   
   Usage:
   1. When prompted for input, you should enter a single student's exam points and exercises completed.
@@ -14,6 +14,6 @@
   6. The class statistics will be printed.
 
 <h2>letter_square</h2>
-  - Takes a number input and creates a square of letters.
-  - Square of letters can range from 1 to 26 in width
-  - Input and printout via the console
+  - Takes a number input and creates a square of letters <be>
+  - Square of letters can range from 1 to 26 in width <be>
+  - Input and printout via the console <be>

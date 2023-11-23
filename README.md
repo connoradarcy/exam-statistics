@@ -1,7 +1,7 @@
 # mooc.fi Python Programming MOOC 2023 - projects
 
 <h2>grade_statistics</h2>
-  - Takes student points and prints basic statistics on class average, passing rate, and grade distribution  
+  - Takes student points and prints basic statistics on class average, passing rate, and grade distribution :-
   - This project is based on the "Grade Statistics" programming exercise from the University of Helsinki's "Python Programming MOOC 2023" course  
   - View the original programming assignment here: https://programming-23.mooc.fi/part-4/6-strings-and-lists#programming-exercise-grade-statistics  
   

@@ -12,7 +12,7 @@ Takes student points and prints basic statistics on class average, passing rate,
   6. The class statistics will be printed.
 
 <h2>letter_square</h2>
-
+Original assignment here: https://programming-23.mooc.fi/part-5/4-tuple#programming-exercise-a-square-of-letters
   Usage:
   1. Takes a number input and creates a square of letters
   2. Square of letters can range from 1 to 26 in width
